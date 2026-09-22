@@ -1,0 +1,1 @@
+payment = input("Enter your payment method (CASH,CARD,INSURANCE) :" )
