@@ -34,11 +34,7 @@ A simple Python-based healthcare data collection and preliminary consultation sy
 VITYARTHI-PROJECT/
  ---> README.md
  ---> HEALTHCARE_DATA_SYSTEM/
-      ---> main.py
-      ---> consultation.py
-      ---> medical_conditions.py
-      ---> patient_details.py
-      ---> payment_method.py
+      ---> main.py , consultation.py , medical_conditions.py , patient_details.py , payment_method.py
 
 
 ## Requirements
