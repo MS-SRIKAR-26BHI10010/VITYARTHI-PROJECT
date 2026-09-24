@@ -30,16 +30,16 @@ A simple Python-based healthcare data collection and preliminary consultation sy
 
 ## Project Structure
 
-```text
+
 VITYARTHI-PROJECT/
-├── README.md
-└── HEALTHCARE_DATA_SYSTEM/
-    ├── main.py
-    ├── consultation.py
-    ├── medical_conditions.py
-    ├── patient_details.py
-    └── payment_method.py
-```
+ ---> README.md
+ ---> HEALTHCARE_DATA_SYSTEM/
+      ---> main.py
+      ---> consultation.py
+      ---> medical_conditions.py
+      ---> patient_details.py
+      ---> payment_method.py
+
 
 ## Requirements
 
@@ -48,25 +48,15 @@ VITYARTHI-PROJECT/
 
 ## How to Run
 
-1. Clone this repository:
+1. Clone this repository: git clone https://github.com/MS-SRIKAR-26BHI10010/VITYARTHI-PROJECT.git
+ 
 
-   ```bash
-   git clone https://github.com/MS-SRIKAR-26BHI10010/VITYARTHI-PROJECT.git
-   ```
+2. Open the project directory: cd VITYARTHI-PROJECT/HEALTHCARE_DATA_SYSTEM
+  
 
-2. Open the project directory:
+3. Run the program: python main.py
 
-   ```bash
-   cd VITYARTHI-PROJECT/HEALTHCARE_DATA_SYSTEM
-   ```
-
-3. Run the program:
-
-   ```bash
-   python main.py
-   ```
-
-4. Follow the prompts in the terminal.
+4. Follow the above prompts in the terminal.
 
 ## How It Works
 
@@ -90,7 +80,7 @@ The application runs as a sequence of interactive steps:
 
 ## Important Notice
 
-This module cannot be used to treat a real patient. It is intended for educational purposes only.
+This module cannot be used to treat a real patient. It is intended (made) for educational purposes only.
 
 **DO NOT USE IN REAL LIFE.**
 
