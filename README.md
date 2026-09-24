@@ -7,17 +7,14 @@ A simple Python-based healthcare data collection and preliminary consultation sy
 ## Features
 
 - Collects patient details:
-  - Name
-  - Age
-  - Date of birth
-  - Height
-  - Weight
+  - Name:
+  - Age:
+  - Date of birth:
+  - Height:
+  - Weight:
 - Records previous medical conditions
 - Records genetic diseases
-- Accepts common payment methods:
-  - Cash
-  - Card
-  - Insurance
+- Accepts common payment methods (Cash,Card,Insurance):
 - Performs a basic rule-based symptom assessment
 - Displays a formatted patient consultation and triage note
 - Validates several user inputs and asks again when input is invalid
@@ -46,10 +43,8 @@ VITYARTHI-PROJECT/
 
 1. Clone this repository: git clone https://github.com/MS-SRIKAR-26BHI10010/VITYARTHI-PROJECT.git
  
-
 2. Open the project directory: cd VITYARTHI-PROJECT/HEALTHCARE_DATA_SYSTEM
   
-
 3. Run the program: python main.py
 
 4. Follow the above prompts in the terminal.
