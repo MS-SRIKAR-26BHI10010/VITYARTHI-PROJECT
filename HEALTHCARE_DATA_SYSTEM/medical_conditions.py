@@ -1,13 +1,8 @@
 """Past medical history input and validation."""
 
+past_medical_conditions = input("DO YOU HAVE ANY PAST MEDICAL CONDITIONS (YES OR NO) :")
 
-def collect_medical_conditions():
-    answer = input("Do you have any past medical conditions? (Yes/No): ").strip().lower()
-    while answer not in {"yes", "no"}:
-        answer = input("Please answer Yes or No: ").strip().lower()
-
-    past_conditions = "None reported"
-    if answer == "yes":
-        past_conditions = input("Enter your medical conditions: ").strip() or "Not specified"
-
-    return {"has_conditions": answer == "yes", "past_conditions": past_conditions}
+if past_medical_conditions in ("YES"):
+    past = input("PLEASE ENTER THE PAST CONDITION :")
+else:
+    past_medical_conditions = "N/A"
