@@ -4,6 +4,18 @@
 
 A simple Python-based healthcare data collection and preliminary consultation system. The program collects basic patient information, medical history, payment details, genetic conditions, and symptoms.
 
+## Overview
+My program contains 4 Modules: -
+1. Patient Details
+2. Medical Conditions
+3. Payment Method
+4. Consultation
+
+- I have imported these modules into a python file name:- main.py
+- main.py is the main source code on which the program runs.
+- My project is about healthcare data system which helps to prescribe patient according to symptoms provided by the user. The output is based on the provided details by the user.
+
+
 ## Features
 
 - Collects patient details:
@@ -15,7 +27,7 @@ A simple Python-based healthcare data collection and preliminary consultation sy
 - Records previous medical conditions
 - Records genetic diseases
 - Accepts common payment methods (Cash,Card,Insurance):
-- Performs a basic rule-based symptom assessment
+- Performs a basic rule-based symptom assessment.
 - Displays a formatted patient consultation and triage note
 - Validates several user inputs and asks again when input is invalid
 
@@ -26,7 +38,6 @@ A simple Python-based healthcare data collection and preliminary consultation sy
 - Command-line interface
 
 ## Project Structure
-
 
 VITYARTHI-PROJECT/
  ---> README.md
@@ -39,7 +50,15 @@ VITYARTHI-PROJECT/
 - Python 3.8 or later
 - No external Python packages are required
 
-## How to Run
+## How to install VS Code ?
+- Download VS Code from https://code.visualstudio.com/.
+- Run the installer and follow the setup prompts.
+- Open VS Code after installation.
+- Install the Python extension from the Extensions tab.
+- Select the Python interpreter for the project.
+
+
+## How to Run the program ?
 
 1. Clone this repository: git clone https://github.com/MS-SRIKAR-26BHI10010/VITYARTHI-PROJECT.git
  
@@ -49,9 +68,9 @@ VITYARTHI-PROJECT/
 
 4. Follow the above prompts in the terminal.
 
-## How It Works
+## How It Works ?
 
-The application runs as a sequence of interactive steps:
+The application runs as a sequence of interactive steps, which are as follows:
 
 1. Collects patient details.
 2. Collects past medical conditions.
@@ -60,22 +79,14 @@ The application runs as a sequence of interactive steps:
 5. Matches entered symptoms against predefined rules.
 6. Prints a preliminary consultation and triage note.
 
-## Future Improvements
-
-1. Add a graphical or web-based user interface.
-2. Store patient records securely in a database.
-3. Add authentication and role-based access.
-4. Improve symptom and condition matching.
-5. Add automated tests.
-6. Generate downloadable reports.
-
 ## Important Notice
 
 This module cannot be used to treat a real patient. It is intended (made) for educational purposes only.
 
-**DO NOT USE IN REAL LIFE.**
+# Created by:- MS-SRIKAR-26BHI10010
 
 ## Author
 
 MS-SRIKAR-26BHI10010
 
+# THANK YOU
