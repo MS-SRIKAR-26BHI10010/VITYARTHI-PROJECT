@@ -4,7 +4,7 @@
 
 A simple Python-based healthcare data collection and preliminary consultation system. The program collects basic patient information, medical history, payment details, genetic conditions, and symptoms.
 
-# Overview
+## Overview
 My program contains 4 Modules: -
 1. Patient Details
 2. Medical Conditions
@@ -58,7 +58,7 @@ VITYARTHI-PROJECT/
 - Select the Python interpreter for the project.
 
 
-## How to Run the program
+## How to Run the program ?
 
 1. Clone this repository: git clone https://github.com/MS-SRIKAR-26BHI10010/VITYARTHI-PROJECT.git
  
@@ -68,7 +68,7 @@ VITYARTHI-PROJECT/
 
 4. Follow the above prompts in the terminal.
 
-## How It Works
+## How It Works ?
 
 The application runs as a sequence of interactive steps, which are as follows:
 
@@ -93,6 +93,6 @@ The application runs as a sequence of interactive steps, which are as follows:
 
 This module cannot be used to treat a real patient. It is intended (made) for educational purposes only.
 
-## Author
+# Created by:- MS-SRIKAR-26BHI10010
 
-MS-SRIKAR-26BHI10010
+# THANK YOU
