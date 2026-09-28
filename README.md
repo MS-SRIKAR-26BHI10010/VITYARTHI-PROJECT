@@ -11,9 +11,9 @@ My program contains 4 Modules: -
 3. Payment Method
 4. Consultation
 
---> I have imported these modules into a python file name : main.py
---> main.py is the main source code on which the program runs.
---> My project is about healthcare data system which helps to prescribe patient according to symptoms provided by the user. The output is based on the provided details by the user.
+a. I have imported these modules into a python file name:- main.py 
+b. main.py is the main source code on which the program runs.
+c. My project is about healthcare data system which helps to prescribe patient according to symptoms provided by the user. The output is based on the provided details by the user.
 
 
 ## Features
