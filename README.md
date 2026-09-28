@@ -79,16 +79,6 @@ The application runs as a sequence of interactive steps, which are as follows:
 5. Matches entered symptoms against predefined rules.
 6. Prints a preliminary consultation and triage note.
 
-## Future Improvements
-
-1. Add a graphical or web-based user interface.
-2. Store patient records securely in a database.
-3. Add authentication and role-based access.
-4. Improve symptom and condition matching.
-5. Add automated tests.
-6. Generate downloadable reports.
-
-#
 ## Important Notice
 
 This module cannot be used to treat a real patient. It is intended (made) for educational purposes only.
