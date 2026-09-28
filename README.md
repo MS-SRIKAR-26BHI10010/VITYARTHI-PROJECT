@@ -11,8 +11,8 @@ My program contains 4 Modules: -
 3. Payment Method
 4. Consultation
 
-- I have imported these modules into a python file name:- main.py
-- main.py is the main source code on which the program runs.
+- I have imported these modules into a python file name:- main.py 
+- main.py is the main source code on which the program runs. 
 - My project is about healthcare data system which helps to prescribe patient according to symptoms provided by the user. The output is based on the provided details by the user.
 
 
@@ -84,9 +84,5 @@ The application runs as a sequence of interactive steps, which are as follows:
 This module cannot be used to treat a real patient. It is intended (made) for educational purposes only.
 
 # Created by:- MS-SRIKAR-26BHI10010
-
-## Author
-
-MS-SRIKAR-26BHI10010
 
 # THANK YOU

@@ -1,13 +1,12 @@
-""""Rule-based preliminary symptom assessment; not a medical diagnosis."""
 
-genetic_disease = input("DO YOU HAVE ANY GENETIC DISEASE ? (YES/NO): ").strip().upper()
+genetic_disease = input("DO YOU HAVE ANY GENETIC DISEASE ? (YES/NO): ")
 
 if genetic_disease in ["YES", "Y"]:
-    genetic_disease = input("PLEASE ENTER THE GENETIC DISEASE : ").strip()
+    genetic_disease = input("PLEASE ENTER THE GENETIC DISEASE : ")
 else:
     genetic_disease = "N/A"
 
-symptoms = input("ENTER THE SYMPTOMS : ").lower()
+symptoms = input("ENTER THE SYMPTOMS : ")
 
 if "chest pain" in symptoms:
     disease = "Possible Cardiovascular Risk"
@@ -231,4 +230,4 @@ elif "pain" in symptoms or "ache" in symptoms:
 
 else:
     disease = "General Malaise"
-    medicine = "Proper git add .Rest, hydration, and standard observation"
+    medicine = "Proper Rest, hydration, and standard observation"

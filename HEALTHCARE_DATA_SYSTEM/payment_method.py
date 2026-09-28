@@ -1,5 +1,3 @@
-"""Payment method input and validation."""
-
 payment_method = input("ENTER THE PAYMENT METHOD (CASH/CARD/INSURANCE) :")
 
 if payment_method in ("CASH", "CARD", "INSURANCE"):
