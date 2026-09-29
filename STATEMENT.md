@@ -1,11 +1,26 @@
-# Statement
+# HEALTHCARE DATA SYSTEM 
+## PROBLEM STATEMENT
+During first clinical visits, collecting and matching patient information like demographic details, physical measurements, medical history, presenting symptoms, and billing preferences usually relies on manual data entry. This increases administrative work, raises the risk of overlooking important background factors such as previous illnesses or genetic susceptibilities, and delays the preparation of initial consultation summaries for attending doctors. And it's even hard to store as a hard copy . 
 
-I created this project, VITYARTHI, to explore how technology can make basic healthcare support more accessible and structured. The idea behind the system is simple: a patient can enter personal details, medical history, genetic information, and symptoms, and the program can generate a preliminary consultation note based on those inputs. This project helped me understand how data collection, rule-based decision making, and user interaction can be combined to create a practical healthcare application.
+## Scope of the Project
+- Patient Data Collection: Asking for patient personal identification, demographic records, and biometric measurements (height and weight).
+- Clinical History & Genetic History: Recording pre-existing medical conditions, genetic disease profiles, and active symptoms the patient is facing .
+- Consultation report : Associating symptoms with preliminary disease assessments and suggested medications.
+- Billing : Asking for preferred patient payment methods.
+- Command line interface (CLI) Consultation Report: Consolidating modular data into a structured, readable consultation summary complete with a clinical safety disclaimer.
 
-My main goal was to design a system that is easy to use and helpful in a basic way, especially for educational purposes. Many people may not know what steps to take when they experience symptoms, and this project provides a simple first layer of guidance. It asks the user for relevant information, checks the symptom pattern against predefined medical conditions, and then suggests a possible diagnosis and general course of action. Although it is not a substitute for a qualified doctor, it demonstrates how digital systems can support early assessment and awareness.
+## Target Users
+- Clinic Desk Staff: To quickly record basic demographics, biometric metrics, and billing preferences during patient registration.
+​- Outpatient Clinic Physicians & Medical Assistants: To review compact patient intakes, active symptoms, medical history, and primary consultation summaries at a glance.
+​- Health Informatics Students & Developers: To explore and test modular Python programming structures for organizing clinical workflows and patient reports.
 
-I was motivated by the fact that healthcare data is sensitive, important, and often difficult to organize. I wanted to build a project that reflects real-world use while remaining simple and understandable. The system is built with Python and uses separate modules for patient details, medical conditions, payment information, and consultation logic. This modular structure made the project easier to manage and showed me how important clean design is when building software for real-world problems.
-
-This project also helped me improve my programming and problem-solving skills. I learned how to collect user inputs, validate them, structure project files efficiently, and make the output more readable and useful. Most importantly, it gave me a better understanding of how technology can be used responsibly in the medical field. I believe projects like this are valuable because they encourage innovation while keeping ethical awareness and medical caution in mind.
-
-Overall, VITYARTHI is not just a coding project for me; it is a small step toward understanding the intersection of healthcare and technology. It reflects my interest in creating solutions that are practical, user-focused, and socially meaningful. I hope this project serves as a foundation for future work in health-tech and inspires me to build more advanced systems that can truly support people in meaningful ways.
+## High Level Features
+- System Architecture: Separate dedicated Python modules for handling different functions required for the project, which are as follows:
+   - patient_details.py: Stores patient name, age, date of birth, height, and weight.
+   - medical_conditions.py: Records previous and pre-existing medical background.
+   - consultation.py: Manages genetic profiles, active symptoms, preliminary disease classifications, and medicine recommendations.
+   - payment_method.py: Stores the patient's selected payment mode.
+- Unified Report Generation (main.py): Central report generation by importing all modular data components and formats them into a clean, segmented consultation report.
+- Integrated Clinical Safety Disclaimer: Automatically appends standard medical liability and emergency escalation disclaimers to remind users that output is non-diagnostic.
+# CREATED BY :- SAI SRIKAR MAMIDANNA (26BHI10010)
+# THANK YOU 
