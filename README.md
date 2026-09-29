@@ -11,9 +11,9 @@ My program contains 4 Modules: -
 3. Payment Method
 4. Consultation
 
-- I have imported these modules into a Python file named: main.py 
+- I have imported these modules into a Python file named main.py 
 - main.py is the main source code on which the program runs. 
-- My project is about a healthcare data system that helps to prescribe patient according to symptoms provided by the user. The output is based on the details provided by the user.
+- My project is about a healthcare data system that helps prescribe to patients according to symptoms provided by the user. The output is based on the details provided by the user.
 
 
 ## Features
@@ -78,6 +78,13 @@ The application runs as a sequence of interactive steps, which are as follows:
 4. Collects genetic disease information and symptoms.
 5. Matches entered symptoms against predefined rules.
 6. Prints a preliminary consultation and triage note.
+
+# SCREENSHOTS OF THE PROGRAM
+## MODULATION
+<img width="357" height="283" alt="image" src="https://github.com/user-attachments/assets/30b7f58f-d152-4df0-a93b-ec3afd6a374b" />
+
+## OUTPUT
+<img width="1919" height="1017" alt="Screenshot 2026-09-29 225254" src="https://github.com/user-attachments/assets/935d74ce-1ac0-4419-ae83-f61252e914ec" />
 
 ## Important Notice
 
