@@ -12,7 +12,7 @@ During first clinical visits, collecting and matching patient information like d
 ## Target Users
 - Clinic Desk Staff: To quickly record basic demographics, biometric metrics, and billing preferences during patient registration.
 ​- Outpatient Clinic Physicians & Medical Assistants: To review compact patient intakes, active symptoms, medical history, and primary consultation summaries at a glance.
-​- Health Informatics Students & Developers: To explore and test modular Python programming structures for organizing clinical workflows and patient reports.
+- Health Informatics Students & Developers: To explore and test modular Python programming structures for organizing clinical workflows and patient reports.
 
 ## High-Level Features
 - System Architecture: Separate dedicated Python modules for handling different functions required for the project, which are as follows:
