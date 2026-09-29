@@ -4,7 +4,7 @@ During first clinical visits, collecting and matching patient information like d
 
 ## Scope of the Project
 - Patient Data Collection: Asking for patient personal identification, demographic records, and biometric measurements (height and weight).
-- Clinical History & Genetic History: Recording pre-existing medical conditions, genetic disease profiles, and active symptoms the patient is facing .
+- Clinical History & Genetic History: Recording pre-existing medical conditions, genetic disease profiles, and active symptoms the patient is facing.
 - Consultation report: Associating symptoms with preliminary disease assessments and suggested medications.
 - Billing: Asking for preferred patient payment methods.
 - Command-line interface (CLI) Consultation Report: Consolidating modular data into a structured, readable consultation summary complete with a clinical safety disclaimer.
