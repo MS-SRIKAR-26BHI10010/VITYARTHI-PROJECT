@@ -11,9 +11,9 @@ My program contains 4 Modules: -
 3. Payment Method
 4. Consultation
 
-- I have imported these modules into a python file name:- main.py 
+- I have imported these modules into a Python file named: main.py 
 - main.py is the main source code on which the program runs. 
-- My project is about healthcare data system which helps to prescribe patient according to symptoms provided by the user. The output is based on the provided details by the user.
+- My project is about a healthcare data system that helps to prescribe patient according to symptoms provided by the user. The output is based on the details provided by the user.
 
 
 ## Features
@@ -26,7 +26,7 @@ My program contains 4 Modules: -
   - Weight:
 - Records previous medical conditions
 - Records genetic diseases
-- Accepts common payment methods (Cash,Card,Insurance):
+- Accepts common payment methods (Cash, Card, Insurance):
 - Performs a basic rule-based symptom assessment.
 - Displays a formatted patient consultation and triage note
 - Validates several user inputs and asks again when input is invalid
@@ -50,7 +50,7 @@ VITYARTHI-PROJECT/
 - Python 3.8 or later
 - No external Python packages are required
 
-## How to install VS Code ?
+## How to install VS Code?
 - Download VS Code from https://code.visualstudio.com/.
 - Run the installer and follow the setup prompts.
 - Open VS Code after installation.
@@ -58,7 +58,7 @@ VITYARTHI-PROJECT/
 - Select the Python interpreter for the project.
 
 
-## How to Run the program ?
+## How to run the program?
 
 1. Clone this repository: git clone https://github.com/MS-SRIKAR-26BHI10010/VITYARTHI-PROJECT.git
  
@@ -68,7 +68,7 @@ VITYARTHI-PROJECT/
 
 4. Follow the above prompts in the terminal.
 
-## How It Works ?
+## How It Works?
 
 The application runs as a sequence of interactive steps, which are as follows:
 
@@ -83,6 +83,6 @@ The application runs as a sequence of interactive steps, which are as follows:
 
 This module cannot be used to treat a real patient. It is intended (made) for educational purposes only.
 
-# Created by:- MS-SRIKAR-26BHI10010
+# Created by: SAI SRIKAR MAMIDANNA (26BHI10010)
 
 # THANK YOU
